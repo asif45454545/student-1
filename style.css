@@ -1,0 +1,26 @@
+.bd{
+    display: flex;
+    width: 100%;
+}
+.hd{
+    font-size: 60px;
+    background-color: lightgrey;
+}
+.d1{
+    width:25%;
+    background-color:navy;
+    color: white;
+}
+.d1 img{
+    border:solid 2px white;
+    border-radius: 50px;
+}
+.d2{
+    width:75%;
+    background-color:white;
+    
+}
+.c1{
+    text-align: center;
+    font-size: 30px;
+}
